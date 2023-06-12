@@ -24,5 +24,5 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 Agnis.
-Kolkata, India.
-basulabs.developer@gmail.com
+Belgrade, Serbia.
+agnis.design@gmail.com
